@@ -23,4 +23,4 @@ Please make sure to update tests as appropriate.
 
 ## Project images
 
-![SCREENSHOT](file:///home/nabab2023/Pictures/Screenshots/Screenshot%20from%202023-07-04%2022-32-08.png)
+![](/home/nabab2023/Pictures/Screenshots/Screenshot%20from%202023-07-04%2022-32-08.png)
