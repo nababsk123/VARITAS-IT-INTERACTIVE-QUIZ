@@ -20,7 +20,3 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## Project images
-
-![](/home/nabab2023/Pictures/Screenshots/Screenshot%20from%202023-07-04%2022-32-08.png)
